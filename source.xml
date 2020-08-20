@@ -1,0 +1,1841 @@
+<TaskerData sr=""dvi="1"tv="5.8.5"><Task sr="task110"><id>110</id><Kid sr="Kid"><launchID>110</launchID><pkg>v.uni</pkg><vnme>2.7</vnme><vnum>32</vnum><vTarg>21</vTarg></Kid><Img sr="icn"ve="2"><nme>hd_aaa_conv_a</nme></Img><nme>Vulmax</nme><pri>100</pri><Action sr="act0"ve="7"><Str sr="arg0"ve="3">Vulmax</Str><Int sr="arg1"val="4"/><Int sr="arg2"val="100"/><Int sr="arg3"val="100"/><Int sr="arg4"val="8"/><Int sr="arg5"val="0"/><Int sr="arg6"val="0"/><Int sr="arg7"val="1"/><code>47</code></Action><Action sr="act1"ve="7"><se>false</se><Str sr="arg0"ve="3">Android/data/vulmax</Str><Str sr="arg1"ve="3">1</Str><Str sr="arg2"ve="3">%test</Str><code>415</code></Action><Action sr="act2"ve="7"><ConditionList sr="if"><Condition sr="c0"ve="3"><op>2</op><lhs>%test</lhs><rhs>2</rhs></Condition></ConditionList><code>37</code></Action><Action sr="act3"ve="7"><Str sr="arg0"ve="3">Vulmax</Str><Str sr="arg1"ve="3">Slider1</Str><Int sr="arg2"val="2"/><code>50</code></Action><Action sr="act4"ve="7"><ConditionList sr="if"><Condition sr="c0"ve="3"><op>2</op><lhs>%test</lhs><rhs>3</rhs></Condition></ConditionList><code>43</code></Action><Action sr="act5"ve="7"><Str sr="arg0"ve="3">Vulmax</Str><Str sr="arg1"ve="3">Slider1</Str><Int sr="arg2"val="3"/><code>50</code></Action><Action sr="act6"ve="7"><ConditionList sr="if"><Condition sr="c0"ve="3"><op>2</op><lhs>%test</lhs><rhs>4</rhs></Condition></ConditionList><code>43</code></Action><Action sr="act7"ve="7"><Str sr="arg0"ve="3">Vulmax</Str><Str sr="arg1"ve="3">Slider1</Str><Int sr="arg2"val="4"/><code>50</code></Action><Action sr="act8"ve="7"><code>43</code></Action><Action sr="act9"ve="7"><Str sr="arg0"ve="3">Vulmax</Str><Str sr="arg1"ve="3">Slider1</Str><Int sr="arg2"val="1"/><code>50</code></Action><cdate>1541933182238</cdate><edate>1590664837416</edate></Task><Scene sr="sceneVulmax"><RectElement sr="elements0"><Str sr="arg0"ve="3">Rectangle1</Str><Int sr="arg1"val="0"/><Str sr="arg2"ve="3">#FF000000</Str><Str sr="arg3"ve="3">#FF000000</Str><Int sr="arg4"val="0"/><Str sr="arg5"ve="3">#FF000000</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><geom>0,0,1080,403,352,126,375,150</geom><flags>6</flags></RectElement><SliderElement sr="elements1"><RectElement sr="background"><Str sr="arg0"ve="3"/><Int sr="arg1"val="0"/><Str sr="arg2"ve="3"/><Str sr="arg3"ve="3"/><Int sr="arg4"val="0"/><Str sr="arg5"ve="3">#FF000000</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><geom>-1,-1,-1,-1,-1,-1,-1,-1</geom><flags>4</flags></RectElement><Str sr="arg0"ve="3">Slider1</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Int sr="arg3"val="4"/><Int sr="arg4"val="1"/><Int sr="arg5"val="0"/><Img sr="arg6"ve="2"><nme>cust_scrubber_normal</nme></Img><geom>52,276,974,125,52,276,977,125</geom><flags>4</flags><valueselectedTask>3</valueselectedTask></SliderElement><TextElement sr="elements2"ve="3"><Str sr="arg0"ve="3">Text1</Str><Str sr="arg1"ve="3">STOCK</Str><Int sr="arg2"val="14"/><Int sr="arg3"val="103"/><Str sr="arg4"ve="3">#FFFFFFFF</Str><Str sr="arg5"ve="3">font/Bee Leave.ttf</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><Int sr="arg8"val="0"/><geom>2,151,224,125,2,151,274,125</geom><flags>4</flags></TextElement><TextElement sr="elements3"ve="3"><Str sr="arg0"ve="3">Text11</Str><Str sr="arg1"ve="3">GAMING</Str><Int sr="arg2"val="14"/><Int sr="arg3"val="103"/><Str sr="arg4"ve="3">#FFFF3300</Str><Str sr="arg5"ve="3">font/Bee Leave.ttf</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><Int sr="arg8"val="0"/><geom>827,151,249,125,802,151,274,125</geom><flags>4</flags></TextElement><TextElement sr="elements4"ve="3"><Str sr="arg0"ve="3">Text12</Str><Str sr="arg1"ve="3">BALANCED</Str><Int sr="arg2"val="14"/><Int sr="arg3"val="103"/><Str sr="arg4"ve="3">#FFFFDC00</Str><Str sr="arg5"ve="3">font/Bee Leave.ttf</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><Int sr="arg8"val="0"/><geom>527,151,299,125,552,151,249,125</geom><flags>4</flags></TextElement><TextElement sr="elements5"ve="3"><Str sr="arg0"ve="3">Text13</Str><Str sr="arg1"ve="3">BATTERY</Str><Int sr="arg2"val="14"/><Int sr="arg3"val="103"/><Str sr="arg4"ve="3">#FF16FF00</Str><Str sr="arg5"ve="3">font/Bee Leave.ttf</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><Int sr="arg8"val="0"/><geom>227,151,299,125,277,151,274,125</geom><flags>4</flags></TextElement><TextElement sr="elements6"ve="3"><RectElement sr="background"><Str sr="arg0"ve="3"/><Int sr="arg1"val="4"/><Str sr="arg2"ve="3">#80FF3232</Str><Str sr="arg3"ve="3">#FF00EDFF</Str><Int sr="arg4"val="0"/><Str sr="arg5"ve="3">#FF000000</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><geom>-1,-1,-1,-1,-1,-1,-1,-1</geom><flags>4</flags></RectElement><Str sr="arg0"ve="3">Text5</Str><Str sr="arg1"ve="3">vulmax</Str><Int sr="arg2"val="25"/><Int sr="arg3"val="101"/><Str sr="arg4"ve="3">#FFFFECEC</Str><Str sr="arg5"ve="3">font/helsinki.ttf</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><Int sr="arg8"val="0"/><geom>0,1,1076,150,177,1,674,125</geom><flags>4</flags></TextElement><widthLand>-1</widthLand><widthPort>1080</widthPort><nme>Vulmax</nme><cdate>1590591403846</cdate><edate>1590664713787</edate><heightLand>-1</heightLand><heightPort>403</heightPort></Scene><Project sr="proj0"ve="2"><scenes>Vulmax,Stock</scenes><Kid sr="Kid"><launchID>110</launchID><pkg>v.uni</pkg><vnme>2.7</vnme><vnum>33</vnum><vTarg>21</vTarg></Kid><Img sr="icon"ve="2"><nme>hd_aaa_conv_a</nme></Img><name>Vulmax</name><tids>110,3,5</tids><cdate>1590664841632</cdate><mdate>1590664841640</mdate></Project><Task sr="task3"><id>3</id><pri>102</pri><Action sr="act0"ve="7"><ConditionList sr="if"><Condition sr="c0"ve="3"><op>2</op><lhs>%new_val</lhs><rhs>1</rhs></Condition></ConditionList><code>37</code></Action><Action sr="act1"ve="7"><se>false</se><Str sr="arg0"ve="3">Android/data/vulmax</Str><Str sr="arg1"ve="3">0</Str><Int sr="arg2"val="0"/><Int sr="arg3"val="1"/><code>410</code></Action><Action sr="act2"ve="7"><Str sr="arg0"ve="3">Stock</Str><Int sr="arg1"val="4"/><Int sr="arg2"val="100"/><Int sr="arg3"val="100"/><Int sr="arg4"val="0"/><Int sr="arg5"val="0"/><Int sr="arg6"val="0"/><Int sr="arg7"val="1"/><code>47</code></Action><Action sr="act3"ve="7"><ConditionList sr="if"><Condition sr="c0"ve="3"><op>2</op><lhs>%new_val</lhs><rhs>2</rhs></Condition></ConditionList><code>43</code></Action><Action sr="act4"ve="7"><Str sr="arg0"ve="3">Applying battery profile</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act5"ve="7"><Str sr="arg0"ve="3">please wait until the app auto closes</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act6"ve="7"><se>false</se><Str sr="arg0"ve="3">Android/data/vulmax</Str><Str sr="arg1"ve="3">2</Str><Int sr="arg2"val="0"/><Int sr="arg3"val="1"/><code>410</code></Action><Action sr="act7"ve="7"><Str sr="arg0"ve="3">Force stop the app &amp; try again if its taking too long</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act8"ve="7"><se>false</se><Str sr="arg0"ve="3">#!/system/bin/sh
+
+  
+mount -o remount,rw /data
+MEM=`free -m | awk '/Mem:/{print $2}'`
+chmod 644 /sys/module/lowmemorykiller/parameters/minfree
+FG8=$(((8192*2/100)*1024/4))
+ VA8=$(((8192*3/100)*1024/4))
+ SS8=$(((8192*4/100)*1024/4))
+ HA8=$(((8192*7/100)*1024/4))
+ CP8=$(((8192*9/100)*1024/4))
+ EA8=$(((8192*14/100)*1024/4))
+
+FG6=$(((6144*2/100)*1024/4))
+ VA6=$(((6144*3/100)*1024/4))
+ SS6=$(((6144*5/100)*1024/4))
+ HA6=$(((6144*7/100)*1024/4))
+ CP6=$(((6144*9/100)*1024/4))
+ EA6=$(((6144*14/100)*1024/4))
+
+FG4=$(((4096*2/100)*1024/4))
+ VA4=$(((4096*3/100)*1024/4))
+ SS4=$(((4096*5/100)*1024/4))
+ HA4=$(((4096*7/100)*1024/4))
+ CP4=$(((4096*9/100)*1024/4))
+ EA4=$(((4096*14/100)*1024/4))
+
+FG3=$(((3072*2/100)*1024/4))
+ VA3=$(((3072*3/100)*1024/4))
+ SS3=$(((3072*5/100)*1024/4))
+ HA3=$(((3072*7/100)*1024/4))
+ CP3=$(((3072*9/100)*1024/4))
+ EA3=$(((3072*14/100)*1024/4))
+
+FG2=$(((2048*2/100)*1024/4))
+ VA2=$(((2048*3/100)*1024/4))
+ SS2=$(((2048*5/100)*1024/4))
+ HA2=$(((2048*7/100)*1024/4))
+ CP2=$(((2048*9/100)*1024/4))
+ EA2=$(((2048*14/100)*1024/4))
+
+FG1=$(((1024*2/100)*1024/4))
+ VA1=$(((1024*3/100)*1024/4))
+ SS1=$(((1024*5/100)*1024/4))
+ HA1=$(((1024*7/100)*1024/4))
+ CP1=$(((1024*9/100)*1024/4))
+ EA1=$(((1024*14/100)*1024/4))
+
+if [ "$MEM" -lt 8200 ]; then
+
+echo "$FG8,$VA8,$SS8,$HA8,$CP8,$EA8" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+
+
+if [ "$MEM" -lt 6200 ]; then
+
+echo "$FG6,$VA6,$SS6,$HA6,$CP6,$EA6" &gt; /sys/module/lowmemorykiller/parameters/minfree
+fi
+ 
+if [ "$MEM" -lt 4200 ]; then
+
+echo "$FG4,$VA4,$SS4,$HA4,$CP4,$EA4" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+
+if [ "$MEM" -lt 3200 ]; then
+
+ echo "$FG3,$VA3,$SS3,$HA3,$CP3,$EA3" &gt; /sys/module/lowmemorykiller/parameters/minfree
+fi
+
+if [ "$MEM" -lt 2200 ]; then
+
+ echo "$FG2,$VA2,$SS2,$HA2,$CP2,$EA2" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+ 
+if [ "$MEM" -lt 1200 ]; then
+
+echo "$FG1,$VA1,$SS1,$HA1,$CP1,$EA1" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+ 
+
+# entropy
+echo 64 &gt; /proc/sys/kernel/random/read_wakeup_threshold
+echo 128 &gt; /proc/sys/kernel/random/write_wakeup_threshold
+
+
+#io
+chmod 644 /sys/block/mmcblk0/queue/read_ahead_kb
+echo 128 &gt; /sys/block/mmcblk0/queue/read_ahead_kb
+chmod 644 /sys/block/mmcblk1/queue/read_ahead_kb
+echo 128 &gt; /sys/block/mmcblk1/queue/read_ahead_kb
+chmod 644 /sys/block/mmcblk0/queue/iostats
+chmod 644 /sys/block/mmcblk1/queue/iostats
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats
+echo 0 &gt; /sys/block/mmcblk1/queue/iostats
+
+#doze
+settings put global device_idle_constants light_after_inactive_to=5000,light_pre_idle_to=10000,light_max_idle_to=86400000,light_idle_to=43200000,light_idle_maintenance_max_budget=20000,light_idle_maintenance_min_budget=5000,min_time_to_alarm=60000,inactive_to=120000,motion_inactive_to=120000,idle_after_inactive_to=5000,locating_to=2000,sensing_to=120000,idle_to=7200000,wait_for_unlock=true
+
+
+#io
+
+
+
+#vm
+echo "500" &gt; /proc/sys/vm/dirty_expire_centisecs
+echo "3000" &gt; /proc/sys/vm/dirty_writeback_centisecs
+echo 20 &gt; /proc/sys/vm/vfs_cache_pressure
+chmod 664 /proc/sys/vm/swappiness
+echo 10 &gt; /proc/sys/vm/swappiness
+echo "90" &gt; /proc/sys/vm/dirty_ratio
+echo "75" &gt; /proc/sys/vm/dirty_background_ratio
+echo "0" &gt; /proc/sys/vm/page-cluster
+chmod 644 /proc/sys/vm/overcommit_ratio
+echo 10 &gt; /proc/sys/vm/overcommit_ratio
+echo "10" &gt; /proc/sys/vm/swappiness
+echo 4096 &gt; /proc/sys/vm/min_free_kb
+echo 4096 &gt; /proc/sys/vm/min_free_kbytes
+echo "50" &gt; /proc/sys/fs/lease-break-time
+
+
+#wakelock
+echo N &gt; /sys/module/wakeup/parameters/enable_wlan_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_wow_wl_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_extscan_wl_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_timerfd_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_qcom_rx_wakelock_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_netlink_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_ipa_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_bluedroid_timer_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_ctrl_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_rx_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_msm_hsic_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_si_ws
+
+
+
+#boost
+chmod 644 /sys/kernel/cpu_input_boost/enabled
+echo "0" &gt; /sys/kernel/cpu_input_boost/enabled
+chmod 644 /sys/module/cpu_boost/parameters/input_boost_enabled
+echo "N" &gt; /sys/module/cpu_boost/parameters/input_boost_enabled
+
+#panic
+chmod 644 /proc/sys/vm/panic_on_oom
+chmod 644 /proc/sys/kernel/panic
+chmod 644 /proc/sys/kernel/panic_on_oops
+echo 0 &gt; /proc/sys/vm/panic_on_oom
+echo 0 &gt; /proc/sys/kernel/panic
+echo 0 &gt; /proc/sys/kernel/panic_on_oops
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats 
+echo 0 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk1/queue/iostats 
+echo 0 &gt; /sys/block/mmcblk1/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk1/queue/add_random
+echo 0 &gt; /sys/block/mmcblk0/queue/add_random
+echo 0 &gt; /sys/block/mmcblk1/queue/rotational
+echo 0 &gt; /sys/block/mmcblk0/queue/rotational
+echo 0 &gt; /sys/block/mmcblk1/queue/nomerges
+echo 0 &gt; /sys/block/mmcblk0/queue/nomerges
+#idle
+    echo 0 &gt;  /sys/devices/system/cpu/cpu0/sched_mostly_idle_freq
+    echo 0 &gt;  /sys/devices/system/cpu/cpu4/sched_mostly_idle_freq
+
+#hmp
+echo 120 &gt;  /proc/sys/kernel/sched_upmigrate
+echo 110 &gt;  /proc/sys/kernel/sched_downmigrate
+
+
+
+#animation
+settings put global window_animation_scale 0.0
+settings put global transition_animation_scale 0.0
+settings put global animator_duration_scale 0.0
+
+
+
+#background
+cmd appops set hm.agni RUN_IN_BACKGROUND ignore
+cmd appops set hm.agni.control.dialog.helper RUN_IN_BACKGROUND ignore
+cmd appops set com.android.egg RUN_IN_BACKGROUND ignore
+cmd appops set com.android.dreams.basic RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bluetooth RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bookmarkprovider RUN_IN_BACKGROUND ignore
+cmd appops set com.android.calculator2 RUN_IN_BACKGROUND ignore
+cmd appops set com.android.calendar RUN_IN_BACKGROUND ignore
+cmd appops set com.android.providers.calendar RUN_IN_BACKGROUND ignore
+cmd appops set  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.camera2 RUN_IN_BACKGROUND ignore
+cmd appops set  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpaperbackup RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpapercropper RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gms.setup RUN_IN_BACKGROUND ignore
+cmd appops set com.android.contacts RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bips RUN_IN_BACKGROUND ignore
+cmd appops set com.android.email RUN_IN_BACKGROUND ignore
+cmd appops set com.android.emergency  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.documentsui RUN_IN_BACKGROUND ignore
+cmd appops set com.caf.fmradio RUN_IN_BACKGROUND ignore
+cmd appops set com.android.gallery3d RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.GCMods5 RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.backuptransport RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.syncadapters.calendar RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.onetimeinitializer RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.partnersetup RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gms RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gsf RUN_IN_BACKGROUND ignore
+cmd appops set com.android.htmlviewer RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpaper.livepicker RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.feedback RUN_IN_BACKGROUND ignore
+cmd appops set com.android.messaging RUN_IN_BACKGROUND ignore
+cmd appops set com.android.cellbroadcastreceiver RUN_IN_BACKGROUND ignore
+cmd appops set com.android.dreams.phototable RUN_IN_BACKGROUND ignore
+cmd appops set com.svox.pico RUN_IN_BACKGROUND ignore
+cmd appops set com.android.settings RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.setupwizard RUN_IN_BACKGROUND ignore
+cmd appops set com.android.packageinstaller RUN_IN_BACKGROUND ignore
+com.android.printspooler RUN_IN_BACKGROUND ignore
+com.android.printservice.recommendation RUN_IN_BACKGROUND ignore
+
+
+
+
+#setprop
+ 
+
+
+
+
+
+
+resetprop persist.sys.ui.hw false
+resetprop persist.sys.scrollingcache 3
+
+#cpu set
+   echo 0 &gt; /dev/cpuset/background/cpus 
+   echo 0 &gt; /dev/cpuset/system-background/cpus
+
+#io
+
+chmod 644 /sys/block/mmcblk1/queue/scheduler
+echo "noop" &gt; /sys/block/mmcblk1/queue/scheduler
+chmod 644 /sys/block/mmcblk0/queue/scheduler
+echo "noop" &gt; /sys/block/mmcblk0/queue/scheduler
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats 
+chmod 644 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk1/queue/iostats 
+echo 0 &gt; /sys/block/mmcblk1/queue/rq_affinity
+
+
+
+#touch
+chmod 644 /sys/module/msm_performance/parameters/touchboost
+echo 0 &gt; /sys/module/msm_performance/parameters/touchboost
+
+
+#debug
+echo 0 &gt; /sys/module/wakelock/parameters/debug_mask
+echo 0 &gt; /sys/module/userwakelock/parameters/debug_mask
+echo 0 &gt; /sys/module/earlysuspend/parameters/debug_mask
+echo 0 &gt; /sys/module/alarm/parameters/debug_mask
+echo 0 &gt; /sys/module/alarm_dev/parameters/debug_mask
+echo 0 &gt; /sys/module/binder/parameters/debug_mask
+
+
+#
+#zram
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '0' &gt; /sys/block/zram0/max_comp_streams
+  echo '0' &gt; /sys/block/zram0/disksize
+ swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+
+#gpu
+echo Y &gt; /sys/module/adreno_idler/parameters/adreno_idler_active
+echo "40" &gt; /sys/module/adreno_idler/parameters/adreno_idler_downdifferential
+echo "12" &gt; /sys/module/adreno_idler/parameters/adreno_idler_idlewait
+echo "8000" &gt; /sys/module/adreno_idler/parameters/adreno_idler_idleworkload
+
+#misc
+chmod 644 /sys/module/workqueue/parameters/power_efficient
+echo N &gt; /sys/module/workqueue/parameters/power_efficient
+chmod 644 /sys/kernel/sched/arch_power
+echo 0 &gt; /sys/kernel/sched/arch_power
+echo "N" &gt; /sys/module/sync/parameters/fsync_enabled
+echo "0" &gt; /sys/module/sync/parameters/auto_fsync_delay_sec
+echo N &gt; /sys/module/state_notifier/parameters/enabled
+echo N &gt; /sys/module/mmc_core/parameters/use_spi_crc
+echo N &gt; /sys/module/mmc_core/parameters/crc
+echo N &gt; /sys/module/mmc_core/parameters/removable
+
+
+#disable
+chmod 644 /proc/sys/vm/oom_kill_allocating_task
+echo 0 &gt; /proc/sys/vm/oom_kill_allocating_task
+chmod 644 /sys/module/lowmemorykiller/parameters/lmk_fast_run
+echo 0 &gt; /sys/module/lowmemorykiller/parameters/lmk_fast_run
+chmod 644 /sys/module/lowmemorykiller/parameters/enable_adaptive_lmk
+echo 0 &gt; /sys/module/lowmemorykiller/parameters/enable_adaptive_lmk
+chmod 644 /sys/module/lowmemorykiller/parameters/enable_lmk
+echo 1 &gt; /sys/module/lowmemorykiller/parameters/enable_lmk
+chmod 644 /proc/sys/vm/block_dump
+echo 0 &gt; /proc/sys/vm/block_dump
+chmod 644 /proc/sys/vm/stat_interval
+echo 60 &gt; /proc/sys/vm/stat_interval
+echo 0 &gt; /proc/sys/vm/oom_dump_tasks
+chmod 644 /sys/module/lowmemorykiller/parameters/minfree
+chmod 644 /sys/kernel/fast_charge/force_fast_charge
+echo "1" &gt; /sys/kernel/fast_charge/force_fast_charge
+
+
+
+
+
+
+
+
+
+
+
+
+
+chmod 664 /proc/sys/vm/swappiness
+echo 0 &gt; /proc/sys/vm/swappiness
+
+
+
+resetprop dalvik.vm.heapminfree 512k
+
+
+
+
+
+
+stop perfd
+
+echo 32 &gt; /sys/block/mmcblk0/queue/nr_requests
+echo 32 &gt; /sys/block/mmcblk1/queue/nr_requests
+
+
+
+resetprop ro.config.zram false
+resetprop ro.config.zram.support false
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '0' &gt; /sys/block/zram0/max_comp_streams
+  echo '0' &gt; /sys/block/zram0/disksize
+ swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 666 /proc/sys/vm/swappiness
+echo 0 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 0 &gt; /proc/sys/vm/swappiness
+
+echo 0 &gt; /sys/module/debug/parameters/enable_event_log
+echo 0 &gt; /sys/module/glink/parameters/debug_mask
+echo 0 &gt; /sys/module/msm_show_resume_irq/parameters/debug_mask
+echo "N" &gt; /sys/module/sit/parameters/log_ecn_error
+echo 0 &gt; /sys/module/smp2p/parameters/debug_mask
+echo 0 &gt; /sys/module/usb_bam/parameters/enable_event_log
+echo 0 &gt; /sys/module/binder/parameters/debug_mask
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_ertm
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_esco
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_rxdbg_mask
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_txdbg_mask
+echo 0 &gt; /sys/module/hid_apple/parameters/fnmode
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_3button
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_scroll_wheel
+echo 0 &gt; /sys/module/smem_log/parameters/log_enable
+dmesg -n1
+stop log
+stop logd
+stop logcat
+echo 0 &gt; /proc/sys/debug/exception-trace
+echo 0 &gt; /proc/sys/kernel/compat-log
+echo 0 0 0 0 &gt; /proc/sys/kernel/printk
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_ertm
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_esco
+
+echo "0" &gt; /sys/module/hid/parameters/ignore_special_drivers
+echo "0" &gt; /sys/module/hid_magicmouse/parameters/scroll_speed
+echo "N" &gt; /sys/module/sync/parameters/fsync_enabled
+echo "0" &gt; /sys/module/binder/parameters/debug_mask
+echo "0" &gt; /sys/module/glink/parameters/debug_mask
+echo "N" &gt; /sys/module/ip6_tunnel/parameters/log_ecn_error
+echo "0" &gt; /sys/module/subsystem_restart/parameters/enable_ramdumps
+echo "0" &gt; /sys/module/lowmemorykiller/parameters/debug_level
+echo "0" &gt; /sys/module/msm_show_resume_irq/parameters/debug_mask
+echo "N" &gt; /sys/module/sit/parameters/log_ecn_error
+echo "0" &gt; /sys/module/smp2p/parameters/debug_mask
+echo "0" &gt; /sys/module/usb_bam/parameters/enable_event_log
+echo "Y" &gt; /sys/module/printk/parameters/console_suspend
+
+echo "Y" &gt; /sys/module/printk/parameters/ignore_loglevel
+
+echo "N" &gt; /sys/module/printk/parameters/time
+echo "0" &gt; /sys/module/service_locator/parameters/enable
+
+ 
+if [ -e /sys/kernel/mm/uksm/run ]; then
+  echo "0" &gt; /sys/kernel/mm/uksm/run;
+  setprop ro.config.ksm.support true;
+  echo "low" &gt; /sys/kernel/mm/uksm/cpu_governor;
+  echo "0" &gt; /sys/kernel/mm/uksm/sleep_millisecs;
+elif [ -e /sys/kernel/mm/ksm/run ]; then
+  echo "1" &gt; /sys/kernel/mm/ksm/run;
+  setprop ro.config.ksm.support true;
+  echo "0" &gt; /sys/kernel/mm/ksm/pages_to_scan;
+  echo "0" &gt; /sys/kernel/mm/ksm/sleep_millisecs;
+  echo "0" &gt; /sys/kernel/mm/ksm/deferred_timer;
+fi;</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act9"ve="7"><se>false</se><Str sr="arg0"ve="3">chmod 644 /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor
+
+
+
+
+
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/schedutil/up_rate_limit_us
+
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/schedutil/down_rate_limit_us
+
+
+
+
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy0/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/schedutil/down_rate_limit_us
+
+
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy0/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/schedutil/up_rate_limit_us
+
+
+
+
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy4/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy2/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy8/scaling_governor
+
+
+
+echo schedutil &gt; /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+
+echo schedutil &gt; /sys/devices/system/cpu/cpu8/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor
+
+
+
+echo 1000 &gt; /sys/devices/system/cpu/cpufreq/policy0/schedutil/down_rate_limit_us
+echo 1000 &gt; /sys/devices/system/cpu/cpufreq/policy4/schedutil/down_rate_limit_us
+echo 1000 &gt; /sys/devices/system/cpu/cpufreq/policy2/schedutil/down_rate_limit_us
+echo 1000 &gt; /sys/devices/system/cpu/cpufreq/policy8/schedutil/down_rate_limit_us
+
+echo 10000 &gt; /sys/devices/system/cpu/cpufreq/policy0/schedutil/up_rate_limit_us
+echo 10000 &gt; /sys/devices/system/cpu/cpufreq/policy4/schedutil/up_rate_limit_us
+echo 10000 &gt; /sys/devices/system/cpu/cpufreq/policy2/schedutil/up_rate_limit_us
+echo 10000 &gt; /sys/devices/system/cpu/cpufreq/policy8/schedutil/up_rate_limit_us
+
+
+echo 10000  &gt; /sys/devices/system/cpu/cpu4/cpufreq/schedutil/up_rate_limit_us
+echo 10000  &gt; /sys/devices/system/cpu/cpu0/cpufreq/schedutil/up_rate_limit_us
+echo 10000  &gt; /sys/devices/system/cpu/cpu2/cpufreq/schedutil/up_rate_limit_us
+echo 10000 &gt; /sys/devices/system/cpu/cpu8/cpufreq/schedutil/up_rate_limit_us
+echo 10000 &gt; /sys/devices/system/cpu/cpu1/cpufreq/schedutil/up_rate_limit_us
+
+
+echo 1000  &gt; /sys/devices/system/cpu/cpu0/cpufreq/schedutil/down_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu4/cpufreq/schedutil/down_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu2/cpufreq/schedutil/down_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu8/cpufreq/schedutil/down_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu1/cpufreq/schedutil/down_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu6/cpufreq/schedutil/down_rate_limit_us
+
+chmod 644 /sys/class/kgsl/kgsl-3d0/devfreq/adrenoboost
+echo 0 &gt; /sys/class/kgsl/kgsl-3d0/devfreq/adrenoboost
+chmod 644 /sys/class/kgsl/kgsl-3d0/bus_split
+    chmod 644 /sys/class/kgsl/kgsl-3d0/force_bus_on
+      chmod 644 /sys/class/kgsl/kgsl-3d0/force_rail_on
+     chmod 644 /sys/class/kgsl/kgsl-3d0/force_clk_on
+   chmod 644 /sys/class/kgsl/kgsl-3d0/throttling
+
+
+
+
+
+echo 1 &gt; /sys/class/kgsl/kgsl-3d0/bus_split
+      echo 0 &gt; /sys/class/kgsl/kgsl-3d0/force_bus_on
+      echo 0 &gt; /sys/class/kgsl/kgsl-3d0/force_rail_on
+      echo 0 &gt; /sys/class/kgsl/kgsl-3d0/force_clk_on
+    echo 0 &gt; /sys/class/kgsl/kgsl-3d0/throttling
+
+
+chmod 644 /sys/module/msm_thermal/core_control/enabled
+chmod 644 /sys/module/msm_thermal/parameters/enabled
+
+echo 0 &gt; /sys/module/msm_thermal/core_control/enabled
+echo 0 &gt; /sys/module/msm_thermal/parameters/enabled
+
+chmod 644 /sys/kernel/cpu_input_boost/enabled
+    echo 0 &gt; /sys/kernel/cpu_input_boost/enabled
+
+chmod 644 /sys/module/msm_performance/parameters/touchboost
+    echo 0 &gt; /sys/module/msm_performance/parameters/touchboost
+
+chmod 644 /sys/module/cpu_boost/parameters/input_boost_ms
+    echo 0 &gt; /sys/module/cpu_boost/parameters/input_boost_ms
+
+settings put global dropbox_max_files 1</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act10"ve="7"><se>false</se><Int sr="arg0"val="442"/><code>61</code></Action><Action sr="act11"ve="7"><se>false</se><Str sr="arg0"ve="3">am force-stop v.uni</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act12"ve="7"><ConditionList sr="if"><Condition sr="c0"ve="3"><op>2</op><lhs>%new_val</lhs><rhs>3</rhs></Condition></ConditionList><code>43</code></Action><Action sr="act13"ve="7"><Str sr="arg0"ve="3">Applying balanced profile</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act14"ve="7"><Str sr="arg0"ve="3">please wait until the app auto closes</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act15"ve="7"><se>false</se><Str sr="arg0"ve="3">Android/data/vulmax</Str><Str sr="arg1"ve="3">3</Str><Int sr="arg2"val="0"/><Int sr="arg3"val="1"/><code>410</code></Action><Action sr="act16"ve="7"><Str sr="arg0"ve="3">Force stop the app &amp; try again if its taking too long</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act17"ve="7"><se>false</se><Str sr="arg0"ve="3">#!/system/bin/sh
+
+
+
+  
+
+# entropy
+echo 128 &gt; /proc/sys/kernel/read_wakeup_threshold
+echo 512 &gt; /proc/sys/kernel/random/write_wakeup_threshold
+
+
+#io
+chmod 644 /sys/block/mmcblk0/queue/read_ahead_kb
+echo 512 &gt; /sys/block/mmcblk0/queue/read_ahead_kb
+chmod 644 /sys/block/mmcblk1/queue/read_ahead_kb
+echo 512 &gt; /sys/block/mmcblk1/queue/read_ahead_kb
+chmod 644 /sys/block/mmcblk0/queue/iostats
+chmod 644 /sys/block/mmcblk1/queue/iostats
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats
+echo 0 &gt; /sys/block/mmcblk1/queue/iostats
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats 
+echo 0 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk1/queue/iostats 
+echo 0 &gt; /sys/block/mmcblk1/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk1/queue/add_random
+echo 0 &gt; /sys/block/mmcblk0/queue/add_random
+echo 0 &gt; /sys/block/mmcblk1/queue/rotational
+echo 0 &gt; /sys/block/mmcblk0/queue/rotational
+echo 0 &gt; /sys/block/mmcblk1/queue/nomerges
+echo 0 &gt; /sys/block/mmcblk0/queue/nomerges
+#doze
+settings put global device_idle_constants light_after_inactive_to=5000,light_pre_idle_to=10000,light_max_idle_to=86400000,light_idle_to=43200000,light_idle_maintenance_max_budget=20000,light_idle_maintenance_min_budget=5000,min_time_to_alarm=60000,inactive_to=120000,motion_inactive_to=120000,idle_after_inactive_to=5000,locating_to=2000,sensing_to=120000,idle_to=7200000,wait_for_unlock=true
+
+
+#io
+
+
+
+#vm
+echo "500" &gt; /proc/sys/vm/dirty_expire_centisecs
+echo "1000" &gt; /proc/sys/vm/dirty_writeback_centisecs
+echo 70 &gt; /proc/sys/vm/vfs_cache_pressure
+chmod 644 /proc/sys/vm/swappiness
+echo 35 &gt; /proc/sys/vm/swappiness
+echo "30" &gt; /proc/sys/vm/dirty_ratio
+echo "15" &gt; /proc/sys/vm/dirty_background_ratio
+echo "1" &gt; /proc/sys/vm/page-cluster
+echo "35" &gt; /proc/sys/vm/swappiness
+chmod 664 /proc/sys/vm/overcommit_ratio
+echo 50 &gt; /proc/sys/vm/overcommit_ratio
+echo 4096 &gt; /proc/sys/vm/min_free_kb
+echo "20" &gt; /proc/sys/fs/lease-break-time
+echo 4096 &gt; /proc/sys/vm/min_free_kbytes
+
+#wakelock
+
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_wow_wl_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_extscan_wl_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_timerfd_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_qcom_rx_wakelock_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_netlink_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_ipa_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_bluedroid_timer_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_ctrl_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_rx_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_msm_hsic_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_si_ws
+
+#extra
+chmod 644 /sys/module/workqueue/parameters/power_efficient
+echo N &gt; /sys/module/workqueue/parameters/power_efficient
+chmod 644 /sys/kernel/sched/arch_power
+echo 0 &gt; /sys/kernel/sched/arch_power
+
+#boost
+chmod 644 /sys/kernel/cpu_input_boost/enabled
+echo "0" &gt; /sys/kernel/cpu_input_boost/enabled
+chmod 644 /sys/module/cpu_boost/parameters/input_boost_enabled
+echo "N" &gt; /sys/module/cpu_boost/parameters/input_boost_enabled
+
+#panic
+chmod 644 /proc/sys/vm/panic_on_oom
+chmod 644 /proc/sys/kernel/panic
+chmod 644 /proc/sys/kernel/panic_on_oops
+echo 0 &gt; /proc/sys/vm/panic_on_oom
+echo 0 &gt; /proc/sys/kernel/panic
+echo 0 &gt; /proc/sys/kernel/panic_on_oops
+
+#idle
+    echo 0 &gt;  /sys/devices/system/cpu/cpu0/sched_mostly_idle_freq
+    echo 0 &gt;  /sys/devices/system/cpu/cpu4/sched_mostly_idle_freq
+
+#hmp
+echo 95 &gt;  /proc/sys/kernel/sched_upmigrate
+echo 80 &gt;  /proc/sys/kernel/sched_downmigrate
+
+
+
+#animation
+settings put global window_animation_scale 0.50
+settings put global transition_animation_scale 0.50
+settings put global animator_duration_scale 0.50
+
+
+
+cmd appops set hm.agni RUN_IN_BACKGROUND ignore
+cmd appops set hm.agni.control.dialog.helper RUN_IN_BACKGROUND ignore
+cmd appops set com.android.egg RUN_IN_BACKGROUND ignore
+cmd appops set com.android.dreams.basic RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bluetooth RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bookmarkprovider RUN_IN_BACKGROUND ignore
+cmd appops set com.android.calculator2 RUN_IN_BACKGROUND ignore
+cmd appops set com.android.calendar RUN_IN_BACKGROUND ignore
+cmd appops set com.android.providers.calendar RUN_IN_BACKGROUND ignore
+cmd appops set  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.camera2 RUN_IN_BACKGROUND ignore
+cmd appops set  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpaperbackup RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpapercropper RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gms.setup RUN_IN_BACKGROUND ignore
+cmd appops set com.android.contacts RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bips RUN_IN_BACKGROUND ignore
+cmd appops set com.android.email RUN_IN_BACKGROUND ignore
+cmd appops set com.android.emergency  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.documentsui RUN_IN_BACKGROUND ignore
+cmd appops set com.caf.fmradio RUN_IN_BACKGROUND ignore
+cmd appops set com.android.gallery3d RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.GCMods5 RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.backuptransport RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.syncadapters.calendar RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.onetimeinitializer RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.partnersetup RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gms RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gsf RUN_IN_BACKGROUND ignore
+cmd appops set com.android.htmlviewer RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpaper.livepicker RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.feedback RUN_IN_BACKGROUND ignore
+cmd appops set com.android.messaging RUN_IN_BACKGROUND ignore
+cmd appops set com.android.cellbroadcastreceiver RUN_IN_BACKGROUND ignore
+cmd appops set com.android.dreams.phototable RUN_IN_BACKGROUND ignore
+cmd appops set com.svox.pico RUN_IN_BACKGROUND ignore
+cmd appops set com.android.settings RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.setupwizard RUN_IN_BACKGROUND ignore
+cmd appops set com.android.packageinstaller RUN_IN_BACKGROUND ignore
+com.android.printspooler RUN_IN_BACKGROUND ignore
+com.android.printservice.recommendation RUN_IN_BACKGROUND ignore
+
+echo "N" &gt; /sys/module/sync/parameters/fsync_enabled
+echo "0" &gt; /sys/module/sync/parameters/auto_fsync_delay_sec
+
+
+
+#setprop  1
+setprop persist.sys.ui.hw true
+
+setprop persist.sys.scrollingcache 3
+
+
+
+
+
+
+
+
+
+#cpu set
+   echo 0 &gt; /dev/cpuset/background/cpus 
+   echo 0 &gt; /dev/cpuset/system-background/cpus
+
+
+#io
+chmod 644 /sys/block/mmcblk1/queue/scheduler
+echo "fiops" &gt; /sys/block/mmcblk1/queue/scheduler
+chmod 644 /sys/block/mmcblk0/queue/scheduler
+echo "fiops" &gt; /sys/block/mmcblk0/queue/scheduler
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats 
+chmod 644 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk1/queue/iostats 
+echo 0 &gt; /sys/block/mmcblk1/queue/rq_affinity
+
+
+
+#touch
+chmod 644 /sys/module/msm_performance/parameters/touchboost
+echo 0 &gt; /sys/module/msm_performance/parameters/touchboost
+
+
+
+#debug
+echo 0 &gt; /sys/module/wakelock/parameters/debug_mask
+echo 0 &gt; /sys/module/userwakelock/parameters/debug_mask
+echo 0 &gt; /sys/module/earlysuspend/parameters/debug_mask
+echo 0 &gt; /sys/module/alarm/parameters/debug_mask
+echo 0 &gt; /sys/module/alarm_dev/parameters/debug_mask
+echo 0 &gt; /sys/module/binder/parameters/debug_mask
+
+
+#zram
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '3' &gt; /sys/block/zram0/max_comp_streams
+  echo '524288000' &gt; /sys/block/zram0/disksize
+ mkswap /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ swapon /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+
+
+#gpu
+echo Y &gt; /sys/module/adreno_idler/parameters/adreno_idler_active
+echo "25" &gt; /sys/module/adreno_idler/parameters/adreno_idler_downdifferential
+echo "25" &gt; /sys/module/adreno_idler/parameters/adreno_idler_idlewait
+echo "4000" &gt; /sys/module/adreno_idler/parameters/adreno_idler_idleworkload
+
+#misc
+#misc
+chmod 644 /sys/module/workqueue/parameters/power_efficient
+echo N &gt; /sys/module/workqueue/parameters/power_efficient
+chmod 644 /sys/kernel/sched/arch_power
+echo 0 &gt; /sys/kernel/sched/arch_power
+echo "N" &gt; /sys/module/sync/parameters/fsync_enabled
+echo "0" &gt; /sys/module/sync/parameters/auto_fsync_delay_sec
+echo N &gt; /sys/module/state_notifier/parameters/enabled
+echo N &gt; /sys/module/mmc_core/parameters/use_spi_crc
+echo N &gt; /sys/module/mmc_core/parameters/crc
+echo N &gt; /sys/module/mmc_core/parameters/removable
+
+#disable
+chmod 644 /proc/sys/vm/oom_kill_allocating_task
+echo 0 &gt; /proc/sys/vm/oom_kill_allocating_task
+chmod 644 /sys/module/lowmemorykiller/parameters/lmk_fast_run
+echo 0 &gt; /sys/module/lowmemorykiller/parameters/lmk_fast_run
+chmod 644 /sys/module/lowmemorykiller/parameters/enable_adaptive_lmk
+echo 0 &gt; /sys/module/lowmemorykiller/parameters/enable_adaptive_lmk
+chmod 644 /sys/module/lowmemorykiller/parameters/enable_lmk
+echo 1 &gt; /sys/module/lowmemorykiller/parameters/enable_lmk
+chmod 644 /proc/sys/vm/block_dump
+echo 0 &gt; /proc/sys/vm/block_dump
+chmod 644 /proc/sys/vm/stat_interval
+echo 30 &gt; /proc/sys/vm/stat_interval
+echo 0 &gt; /proc/sys/vm/oom_dump_tasks
+chmod 644 /sys/module/lowmemorykiller/parameters/minfree
+chmod 644 /sys/kernel/fast_charge/force_fast_charge
+echo "1" &gt; /sys/kernel/fast_charge/force_fast_charge
+
+
+
+
+
+
+
+
+
+
+
+
+
+resetprop dalvik.vm.heapminfree 512k
+
+#trash cleaner
+
+ 
+
+#trim
+pm trim-caches 16g;
+pm trim-caches 128g;
+
+
+echo 96 &gt; /sys/block/mmcblk0/queue/nr_requests
+echo 96 &gt; /sys/block/mmcblk1/queue/nr_requests
+
+
+if [ -e /sys/kernel/mm/uksm/run ]; then
+  echo "0" &gt; /sys/kernel/mm/uksm/run;
+  setprop ro.config.ksm.support true;
+  echo "low" &gt; /sys/kernel/mm/uksm/cpu_governor;
+  echo "0" &gt; /sys/kernel/mm/uksm/sleep_millisecs;
+elif [ -e /sys/kernel/mm/ksm/run ]; then
+  echo "0" &gt; /sys/kernel/mm/ksm/run;
+  setprop ro.config.ksm.support true;
+  echo "0" &gt; /sys/kernel/mm/ksm/pages_to_scan;
+  echo "0" &gt; /sys/kernel/mm/ksm/sleep_millisecs;
+  echo "0" &gt; /sys/kernel/mm/ksm/deferred_timer;
+fi;</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act18"ve="7"><se>false</se><Str sr="arg0"ve="3">chmod 644 /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor
+
+
+
+
+
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/schedutil/up_rate_limit_us
+
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/schedutil/down_rate_limit_us
+
+
+
+
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy0/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/schedutil/down_rate_limit_us
+
+
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy0/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/schedutil/up_rate_limit_us
+
+
+
+
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy4/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy2/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy8/scaling_governor
+
+
+
+echo schedutil &gt; /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+
+echo schedutil &gt; /sys/devices/system/cpu/cpu8/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor
+
+
+
+echo 20000 &gt; /sys/devices/system/cpu/cpufreq/policy0/schedutil/down_rate_limit_us
+echo 20000 &gt; /sys/devices/system/cpu/cpufreq/policy4/schedutil/down_rate_limit_us
+echo 20000 &gt; /sys/devices/system/cpu/cpufreq/policy2/schedutil/down_rate_limit_us
+echo 20000 &gt; /sys/devices/system/cpu/cpufreq/policy8/schedutil/down_rate_limit_us
+
+echo 1000 &gt; /sys/devices/system/cpu/cpufreq/policy0/schedutil/up_rate_limit_us
+echo 1000 &gt; /sys/devices/system/cpu/cpufreq/policy4/schedutil/up_rate_limit_us
+echo 1000 &gt; /sys/devices/system/cpu/cpufreq/policy2/schedutil/up_rate_limit_us
+echo 1000 &gt; /sys/devices/system/cpu/cpufreq/policy8/schedutil/up_rate_limit_us
+
+
+echo 1000  &gt; /sys/devices/system/cpu/cpu4/cpufreq/schedutil/up_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu0/cpufreq/schedutil/up_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu2/cpufreq/schedutil/up_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu8/cpufreq/schedutil/up_rate_limit_us
+echo 1000  &gt; /sys/devices/system/cpu/cpu1/cpufreq/schedutil/up_rate_limit_us
+
+
+echo 20000  &gt; /sys/devices/system/cpu/cpu0/cpufreq/schedutil/down_rate_limit_us
+echo 20000  &gt; /sys/devices/system/cpu/cpu4/cpufreq/schedutil/down_rate_limit_us
+echo 20000  &gt; /sys/devices/system/cpu/cpu2/cpufreq/schedutil/down_rate_limit_us
+echo 20000  &gt; /sys/devices/system/cpu/cpu8/cpufreq/schedutil/down_rate_limit_us
+echo 20000  &gt; /sys/devices/system/cpu/cpu1/cpufreq/schedutil/down_rate_limit_us
+echo 20000  &gt; /sys/devices/system/cpu/cpu6/cpufreq/schedutil/down_rate_limit_us
+
+
+chmod 644 /sys/class/kgsl/kgsl-3d0/devfreq/adrenoboost
+echo 0 &gt; /sys/class/kgsl/kgsl-3d0/devfreq/adrenoboost
+chmod 644 /sys/module/msm_thermal/core_control/enabled
+chmod 644 /sys/module/msm_thermal/parameters/enabled
+
+echo 0 &gt; /sys/module/msm_thermal/core_control/enabled
+echo 0 &gt; /sys/module/msm_thermal/parameters/enabled
+
+chmod 644 /sys/kernel/cpu_input_boost/enabled
+    echo 0 &gt; /sys/kernel/cpu_input_boost/enabled
+
+chmod 644 /sys/module/msm_performance/parameters/touchboost
+    echo 0 &gt; /sys/module/msm_performance/parameters/touchboost
+
+chmod 644 /sys/class/kgsl/kgsl-3d0/bus_split
+    chmod 644 /sys/class/kgsl/kgsl-3d0/force_bus_on
+      chmod 644 /sys/class/kgsl/kgsl-3d0/force_rail_on
+     chmod 644 /sys/class/kgsl/kgsl-3d0/force_clk_on
+   chmod 644 /sys/class/kgsl/kgsl-3d0/throttling
+
+
+
+
+
+echo 1 &gt; /sys/class/kgsl/kgsl-3d0/bus_split
+      echo 0 &gt; /sys/class/kgsl/kgsl-3d0/force_bus_on
+      echo 0 &gt; /sys/class/kgsl/kgsl-3d0/force_rail_on
+      echo 0 &gt; /sys/class/kgsl/kgsl-3d0/force_clk_on
+    echo 1 &gt; /sys/class/kgsl/kgsl-3d0/throttling
+
+chmod 644 /sys/module/cpu_boost/parameters/input_boost_ms
+    echo 0 &gt; /sys/module/cpu_boost/parameters/input_boost_ms
+
+settings put global dropbox_max_files 1</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act19"ve="7"><se>false</se><Str sr="arg0"ve="3">echo 35 &gt; /proc/sys/vm/swappiness
+mount -o remount,rw /data
+MEM=`free -m | awk '/Mem:/{print $2}'`
+chmod 644 /sys/module/lowmemorykiller/parameters/minfree
+
+FG8=$(((8192*2/100)*1024/4))
+ VA8=$(((8192*3/100)*1024/4))
+ SS8=$(((8192*4/100)*1024/4))
+ HA8=$(((8192*7/100)*1024/4))
+ CP8=$(((8192*8/100)*1024/4))
+ EA8=$(((8192*13/100)*1024/4))
+
+
+FG6=$(((6144*2/100)*1024/4))
+ VA6=$(((6144*3/100)*1024/4))
+ SS6=$(((6144*4/100)*1024/4))
+ HA6=$(((6144*7/100)*1024/4))
+ CP6=$(((6144*8/100)*1024/4))
+ EA6=$(((6144*13/100)*1024/4))
+
+FG4=$(((4096*2/100)*1024/4))
+ VA4=$(((4096*3/100)*1024/4))
+ SS4=$(((4096*4/100)*1024/4))
+ HA4=$(((4096*7/100)*1024/4))
+ CP4=$(((4096*8/100)*1024/4))
+ EA4=$(((4096*13/100)*1024/4))
+
+FG3=$(((3072*2/100)*1024/4))
+ VA3=$(((3072*3/100)*1024/4))
+ SS3=$(((3072*4/100)*1024/4))
+ HA3=$(((3072*7/100)*1024/4))
+ CP3=$(((3072*8/100)*1024/4))
+ EA3=$(((3072*13/100)*1024/4))
+
+FG2=$(((2048*2/100)*1024/4))
+ VA2=$(((2048*3/100)*1024/4))
+ SS2=$(((2048*4/100)*1024/4))
+ HA2=$(((2048*7/100)*1024/4))
+ CP2=$(((2048*8/100)*1024/4))
+ EA2=$(((2048*13/100)*1024/4))
+
+FG1=$(((1024*2/100)*1024/4))
+ VA1=$(((1024*3/100)*1024/4))
+ SS1=$(((1024*4/100)*1024/4))
+ HA1=$(((1024*7/100)*1024/4))
+ CP1=$(((1024*8/100)*1024/4))
+ EA1=$(((1024*13/100)*1024/4))
+
+if [ "$MEM" -lt 8200 ]; then
+
+echo "$FG8,$VA8,$SS8,$HA8,$CP8,$EA8" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+
+if [ "$MEM" -lt 6200 ]; then
+
+echo "$FG6,$VA6,$SS6,$HA6,$CP6,$EA6" &gt; /sys/module/lowmemorykiller/parameters/minfree
+fi
+ 
+if [ "$MEM" -lt 4200 ]; then
+
+echo "$FG4,$VA4,$SS4,$HA4,$CP4,$EA4" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+
+if [ "$MEM" -lt 3200 ]; then
+
+ echo "$FG3,$VA3,$SS3,$HA3,$CP3,$EA3" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+
+if [ "$MEM" -lt 2200 ]; then
+
+ echo "$FG2,$VA2,$SS2,$HA2,$CP2,$EA2" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+ 
+if [ "$MEM" -lt 1200 ]; then
+
+echo "$FG1,$VA1,$SS1,$HA1,$CP1,$EA1" &gt; /sys/module/lowmemorykiller/parameters/minfree
+ 
+ 
+ fi
+
+if [ "$MEM" -lt 8200 ]; then
+resetprop ro.config.zram false
+resetprop ro.config.zram.support false
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '4' &gt; /sys/block/zram0/max_comp_streams
+  echo '524288000' &gt; /sys/block/zram0/disksize
+ swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 666 /proc/sys/vm/swappiness
+echo 30 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 30 &gt; /proc/sys/vm/swappiness
+
+fi
+
+if [ "$MEM" -lt 6200 ]; then
+resetprop ro.config.zram false
+resetprop ro.config.zram.support false
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '4' &gt; /sys/block/zram0/max_comp_streams
+  echo '524288000' &gt; /sys/block/zram0/disksize
+ swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 666 /proc/sys/vm/swappiness
+echo 30 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 30 &gt; /proc/sys/vm/swappiness
+
+fi
+
+ 
+if [ "$MEM" -lt 4200 ]; then
+resetprop ro.config.zram true
+resetprop ro.config.zram.support true
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '6' &gt; /sys/block/zram0/max_comp_streams
+  echo '1048576000' &gt; /sys/block/zram0/disksize
+ mkswap /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ swapon /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 666 /proc/sys/vm/swappiness
+echo 80 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 80 &gt; /proc/sys/vm/swappiness
+fi
+
+
+if [ "$MEM" -lt 3200 ]; then
+
+resetprop ro.config.zram true
+resetprop ro.config.zram.support true
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '6' &gt; /sys/block/zram0/max_comp_streams
+  echo '1048576000' &gt; /sys/block/zram0/disksize
+ mkswap /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ swapon /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1 
+chmod 666 /proc/sys/vm/swappiness
+echo 80 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 80 &gt; /proc/sys/vm/swappiness
+fi
+if [ "$MEM" -lt 2200 ]; then
+
+resetprop ro.config.zram true
+resetprop ro.config.zram.support true
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '4' &gt; /sys/block/zram0/max_comp_streams
+  echo '786432000' &gt; /sys/block/zram0/disksize
+ mkswap /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ swapon /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1 
+chmod 666 /proc/sys/vm/swappiness
+echo 60 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 60 &gt; /proc/sys/vm/swappiness
+fi</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act20"ve="7"><se>false</se><Str sr="arg0"ve="3">dmesg -n1
+stop log
+stop logd
+stop logcat
+echo 0 &gt; /proc/sys/debug/exception-trace
+echo 0 &gt; /proc/sys/kernel/compat-log
+echo 0 0 0 0 &gt; /proc/sys/kernel/printk
+echo 0 &gt; /sys/module/debug/parameters/enable_event_log
+echo 0 &gt; /sys/module/glink/parameters/debug_mask
+echo 0 &gt; /sys/module/msm_show_resume_irq/parameters/debug_mask
+echo "N" &gt; /sys/module/sit/parameters/log_ecn_error
+echo 0 &gt; /sys/module/smp2p/parameters/debug_mask
+echo 0 &gt; /sys/module/usb_bam/parameters/enable_event_log
+echo 0 &gt; /sys/module/binder/parameters/debug_mask
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_ertm
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_esco
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_rxdbg_mask
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_txdbg_mask
+echo 0 &gt; /sys/module/hid_apple/parameters/fnmode
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_3button
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_scroll_wheel
+echo 0 &gt; /sys/module/smem_log/parameters/log_enable
+		echo 0 &gt; /sys/module/debug/parameters/enable_event_log
+echo 0 &gt; /sys/module/glink/parameters/debug_mask
+echo 0 &gt; /sys/module/msm_show_resume_irq/parameters/debug_mask
+echo "N" &gt; /sys/module/sit/parameters/log_ecn_error
+echo 0 &gt; /sys/module/smp2p/parameters/debug_mask
+echo 0 &gt; /sys/module/usb_bam/parameters/enable_event_log
+echo 0 &gt; /sys/module/binder/parameters/debug_mask
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_ertm
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_esco
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_rxdbg_mask
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_txdbg_mask
+echo 0 &gt; /sys/module/hid_apple/parameters/fnmode
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_3button
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_scroll_wheel
+echo 0 &gt; /sys/module/smem_log/parameters/log_enable
+dmesg -n1
+stop log
+stop logd
+stop logcat
+echo 0 &gt; /proc/sys/debug/exception-trace
+echo 0 &gt; /proc/sys/kernel/compat-log
+echo 0 0 0 0 &gt; /proc/sys/kernel/printk
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_ertm
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_esco
+
+echo "0" &gt; /sys/module/hid/parameters/ignore_special_drivers
+echo "0" &gt; /sys/module/hid_magicmouse/parameters/scroll_speed
+echo "N" &gt; /sys/module/sync/parameters/fsync_enabled
+echo "0" &gt; /sys/module/binder/parameters/debug_mask
+echo "0" &gt; /sys/module/glink/parameters/debug_mask
+echo "N" &gt; /sys/module/ip6_tunnel/parameters/log_ecn_error
+echo "0" &gt; /sys/module/subsystem_restart/parameters/enable_ramdumps
+echo "0" &gt; /sys/module/lowmemorykiller/parameters/debug_level
+echo "0" &gt; /sys/module/msm_show_resume_irq/parameters/debug_mask
+echo "N" &gt; /sys/module/sit/parameters/log_ecn_error
+echo "0" &gt; /sys/module/smp2p/parameters/debug_mask
+echo "0" &gt; /sys/module/usb_bam/parameters/enable_event_log
+echo "Y" &gt; /sys/module/printk/parameters/console_suspend
+
+echo "Y" &gt; /sys/module/printk/parameters/ignore_loglevel
+
+echo "N" &gt; /sys/module/printk/parameters/time
+echo "0" &gt; /sys/module/service_locator/parameters/enable
+
+ 
+
+stop perfd</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act21"ve="7"><se>false</se><Int sr="arg0"val="471"/><code>61</code></Action><Action sr="act22"ve="7"><se>false</se><Str sr="arg0"ve="3">am force-stop v.uni</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act23"ve="7"><ConditionList sr="if"><Condition sr="c0"ve="3"><op>2</op><lhs>%new_val</lhs><rhs>4</rhs></Condition></ConditionList><code>43</code></Action><Action sr="act24"ve="7"><Str sr="arg0"ve="3">Applying gaming profile</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act25"ve="7"><Str sr="arg0"ve="3">please wait until the app auto closes</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act26"ve="7"><se>false</se><Str sr="arg0"ve="3">Android/data/vulmax</Str><Str sr="arg1"ve="3">4</Str><Int sr="arg2"val="0"/><Int sr="arg3"val="1"/><code>410</code></Action><Action sr="act27"ve="7"><Str sr="arg0"ve="3">Force stop the app &amp; try again if its taking too long</Str><Int sr="arg1"val="1"/><code>548</code></Action><Action sr="act28"ve="7"><se>false</se><Str sr="arg0"ve="3">#!/system/bin/sh
+
+
+
+  
+
+# entropy
+echo 512 &gt; /proc/sys/kernel/random/read_wakeup_threshold
+echo 1024 &gt; /proc/sys/kernel/random/write_wakeup_threshold
+
+
+
+chmod 644 /sys/block/mmcblk0/queue/read_ahead_kb
+echo 1024 &gt; /sys/block/mmcblk0/queue/read_ahead_kb
+chmod 644 /sys/block/mmcblk1/queue/read_ahead_kb
+echo 1024 &gt; /sys/block/mmcblk1/queue/read_ahead_kb
+chmod 644 /sys/block/mmcblk0/queue/iostats
+chmod 644 /sys/block/mmcblk1/queue/iostats
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats
+echo 0 &gt; /sys/block/mmcblk1/queue/iostats
+
+
+#io
+
+
+
+#vm
+echo "200" &gt; /proc/sys/vm/dirty_expire_centisecs
+echo "300" &gt; /proc/sys/vm/dirty_writeback_centisecs
+chmod 644 /proc/sys/vm/swappiness
+echo 100 &gt; /proc/sys/vm/swappiness
+echo "15" &gt; /proc/sys/vm/dirty_ratio
+echo "5" &gt; /proc/sys/vm/dirty_background_ratio
+echo "2" &gt; /proc/sys/vm/page-cluster
+echo 4096 &gt; /proc/sys/vm/min_free_kb
+echo "15" &gt; /proc/sys/fs/lease-break-time
+echo 4096 &gt; /proc/sys/vm/min_free_kbytes
+echo 150 &gt; /proc/sys/vm/vfs_cache_pressure
+#wakelock
+#wakelock
+
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_wow_wl_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_extscan_wl_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_timerfd_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_qcom_rx_wakelock_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_netlink_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_ipa_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_bluedroid_timer_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_ctrl_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_wlan_rx_wake_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_msm_hsic_ws
+echo 'N' &gt; /sys/module/wakeup/parameters/enable_si_ws
+
+#extra
+chmod 644 /sys/module/workqueue/parameters/power_efficient
+echo N &gt; /sys/module/workqueue/parameters/power_efficient
+chmod 644 /sys/kernel/sched/arch_power
+echo 0 &gt; /sys/kernel/sched/arch_power
+
+#boost
+chmod 644 /sys/kernel/cpu_input_boost/enabled
+echo "0" &gt; /sys/kernel/cpu_input_boost/enabled
+chmod 644 /sys/module/cpu_boost/parameters/input_boost_enabled
+echo "N" &gt; /sys/module/cpu_boost/parameters/input_boost_enabled
+
+#panic
+chmod 644 /proc/sys/vm/panic_on_oom
+chmod 644 /proc/sys/kernel/panic
+chmod 644 /proc/sys/kernel/panic_on_oops
+echo 0 &gt; /proc/sys/vm/panic_on_oom
+echo 0 &gt; /proc/sys/kernel/panic
+echo 0 &gt; /proc/sys/kernel/panic_on_oops
+
+
+    echo 0 &gt;  /sys/devices/system/cpu/cpu0/sched_mostly_idle_freq
+    echo 0 &gt;  /sys/devices/system/cpu/cpu4/sched_mostly_idle_freq
+
+#hmp
+echo 75 &gt;  /proc/sys/kernel/sched_upmigrate
+echo 60 &gt;  /proc/sys/kernel/sched_downmigrate
+
+
+
+
+settings put global window_animation_scale 0.0
+settings put global transition_animation_scale 0.0
+settings put global animator_duration_scale 0.0
+
+
+
+cmd appops set hm.agni RUN_IN_BACKGROUND ignore
+cmd appops set hm.agni.control.dialog.helper RUN_IN_BACKGROUND ignore
+cmd appops set com.android.egg RUN_IN_BACKGROUND ignore
+cmd appops set com.android.dreams.basic RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bluetooth RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bookmarkprovider RUN_IN_BACKGROUND ignore
+cmd appops set com.android.calculator2 RUN_IN_BACKGROUND ignore
+cmd appops set com.android.calendar RUN_IN_BACKGROUND ignore
+cmd appops set com.android.providers.calendar RUN_IN_BACKGROUND ignore
+cmd appops set  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.camera2 RUN_IN_BACKGROUND ignore
+cmd appops set  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpaperbackup RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpapercropper RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gms.setup RUN_IN_BACKGROUND ignore
+cmd appops set com.android.contacts RUN_IN_BACKGROUND ignore
+cmd appops set com.android.bips RUN_IN_BACKGROUND ignore
+cmd appops set com.android.email RUN_IN_BACKGROUND ignore
+cmd appops set com.android.emergency  RUN_IN_BACKGROUND ignore
+cmd appops set com.android.documentsui RUN_IN_BACKGROUND ignore
+cmd appops set com.caf.fmradio RUN_IN_BACKGROUND ignore
+cmd appops set com.android.gallery3d RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.GCMods5 RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.backuptransport RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.syncadapters.calendar RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.onetimeinitializer RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.partnersetup RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gms RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.gsf RUN_IN_BACKGROUND ignore
+cmd appops set com.android.htmlviewer RUN_IN_BACKGROUND ignore
+cmd appops set com.android.wallpaper.livepicker RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.feedback RUN_IN_BACKGROUND ignore
+cmd appops set com.android.messaging RUN_IN_BACKGROUND ignore
+cmd appops set com.android.cellbroadcastreceiver RUN_IN_BACKGROUND ignore
+cmd appops set com.android.dreams.phototable RUN_IN_BACKGROUND ignore
+cmd appops set com.svox.pico RUN_IN_BACKGROUND ignore
+cmd appops set com.android.settings RUN_IN_BACKGROUND ignore
+cmd appops set com.google.android.setupwizard RUN_IN_BACKGROUND ignore
+cmd appops set com.android.packageinstaller RUN_IN_BACKGROUND ignore
+com.android.printspooler RUN_IN_BACKGROUND ignore
+com.android.printservice.recommendation RUN_IN_BACKGROUND ignore
+
+echo "N" &gt; /sys/module/sync/parameters/fsync_enabled
+echo "0" &gt; /sys/module/sync/parameters/auto_fsync_delay_sec
+
+rm /data/property/persist.sys.composition.type
+rm /data/property/persist.service.pcsync.enable
+rm /data/property/persist.service.lgospd.enable
+rm /data/property/persist.sys.purgeable_assets
+rm /data/property/persist.sys.ui.hw 
+rm /data/property/persist.sys.scrollingcache 
+rm /data/property/persist.sys.use_16bpp_alpha 
+rm /data/property/persist.sys.NV_FPSLIMIT 
+rm /data/property/persist.sys.NV_POWERMODE 
+rm /data/property/persist.sys.NV_PROFVER 
+rm /data/property/persist.sys.NV_STEREOCTRL 
+rm /data/property/persist.sys.NV_STEREOSEPCHG 
+rm /data/property/persist.sys.NV_STEREOSEP 
+rm /data/property/persist.sampling_profiler 
+rm /data/property/persist.android.strictmode 
+rm /data/property/persist.sys.use_dithering
+
+#setprop
+
+
+
+resetprop 
+resetprop persist.sys.ui.hw true
+resetprop persist.sys.scrollingcache 3
+
+
+
+#cpu set
+   echo 0 &gt; /dev/cpuset/background/cpus 
+   echo 0 &gt; /dev/cpuset/system-background/cpus
+
+
+chmod 644 /sys/block/mmcblk0/queue/scheduler
+chmod 644 /sys/block/mmcblk1/queue/scheduler
+echo cfq &gt; /sys/block/mmcblk0/queue/scheduler
+echo cfq &gt; /sys/block/mmcblk1/queue/scheduler
+echo 0 &gt; /sys/block/mmcblk0/queue/scheduler/iosched/low_latency
+echo 0 &gt; /sys/block/mmcblk1/queue/iosched/low_latency
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats 
+chmod 644 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk1/queue/iostats 
+echo 0 &gt; /sys/block/mmcblk1/queue/rq_affinity
+
+
+
+#touch
+chmod 644 /sys/module/msm_performance/parameters/touchboost
+echo 0 &gt; /sys/module/msm_performance/parameters/touchboost
+
+chmod 644 /proc/sys/vm/overcommit_ratio
+echo 25 &gt; /proc/sys/vm/overcommit_ratio
+
+
+
+
+
+#debug
+echo 0 &gt; /sys/module/wakelock/parameters/debug_mask
+echo 0 &gt; /sys/module/userwakelock/parameters/debug_mask
+echo 0 &gt; /sys/module/earlysuspend/parameters/debug_mask
+echo 0 &gt; /sys/module/alarm/parameters/debug_mask
+echo 0 &gt; /sys/module/alarm_dev/parameters/debug_mask
+echo 0 &gt; /sys/module/binder/parameters/debug_mask
+
+#zram
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '4' &gt; /sys/block/zram0/max_comp_streams
+  echo '1048576000' &gt; /sys/block/zram0/disksize
+ mkswap /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ swapon /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+
+
+echo N &gt; /sys/module/adreno_idler/parameters/adreno_idler_active
+echo "18" &gt; /sys/module/adreno_idler/parameters/adreno_idler_downdifferential
+echo "32" &gt; /sys/module/adreno_idler/parameters/adreno_idler_idlewait
+echo "3000" &gt; /sys/module/adreno_idler/parameters/adreno_idler_idleworkload
+chmod 644 /sys/class/kgsl/kgsl-3d0/devfreq/adrenoboost
+echo 1 &gt; /sys/class/kgsl/kgsl-3d0/devfreq/adrenoboost
+
+
+#misc
+chmod 644 /sys/module/workqueue/parameters/power_efficient
+echo N &gt; /sys/module/workqueue/parameters/power_efficient
+chmod 644 /sys/kernel/sched/arch_power
+echo 0 &gt; /sys/kernel/sched/arch_power
+echo "N" &gt; /sys/module/sync/parameters/fsync_enabled
+echo "0" &gt; /sys/module/sync/parameters/auto_fsync_delay_sec
+echo N &gt; /sys/module/state_notifier/parameters/enabled
+echo N &gt; /sys/module/mmc_core/parameters/use_spi_crc
+echo N &gt; /sys/module/mmc_core/parameters/crc
+echo N &gt; /sys/module/mmc_core/parameters/removable
+
+#disable
+chmod 644 /proc/sys/vm/oom_kill_allocating_task
+echo 0 &gt; /proc/sys/vm/oom_kill_allocating_task
+chmod 644 /sys/module/lowmemorykiller/parameters/lmk_fast_run
+echo 0 &gt; /sys/module/lowmemorykiller/parameters/lmk_fast_run
+chmod 644 /sys/module/lowmemorykiller/parameters/enable_adaptive_lmk
+echo 0 &gt; /sys/module/lowmemorykiller/parameters/enable_adaptive_lmk
+chmod 644 /sys/module/lowmemorykiller/parameters/enable_lmk
+echo 1 &gt; /sys/module/lowmemorykiller/parameters/enable_lmk
+chmod 644 /proc/sys/vm/block_dump
+echo 0 &gt; /proc/sys/vm/block_dump
+chmod 644 /proc/sys/vm/stat_interval
+echo 15 &gt; /proc/sys/vm/stat_interval
+echo 0 &gt; /proc/sys/vm/oom_dump_tasks
+chmod 644 /sys/module/lowmemorykiller/parameters/minfree
+chmod 644 /sys/kernel/fast_charge/force_fast_charge
+echo "1" &gt; /sys/kernel/fast_charge/force_fast_charge
+
+
+
+
+
+
+
+
+
+
+resetprop dalvik.vm.heapminfree 2m
+
+
+
+
+
+PPID=$(pidof com.tencent.ig)
+echo "-17" &gt; /proc/$PPID/oom_adj
+
+
+echo 128 &gt; /sys/block/mmcblk0/queue/nr_requests
+echo 128 &gt; /sys/block/mmcblk1/queue/nr_requests
+
+if [ -e /sys/kernel/mm/uksm/run ]; then
+  echo "0" &gt; /sys/kernel/mm/uksm/run;
+  setprop ro.config.ksm.support true;
+  echo "low" &gt; /sys/kernel/mm/uksm/cpu_governor;
+  echo "0" &gt; /sys/kernel/mm/uksm/sleep_millisecs;
+elif [ -e /sys/kernel/mm/ksm/run ]; then
+  echo "0" &gt; /sys/kernel/mm/ksm/run;
+  setprop ro.config.ksm.support true;
+  echo "0" &gt; /sys/kernel/mm/ksm/pages_to_scan;
+  echo "0" &gt; /sys/kernel/mm/ksm/sleep_millisecs;
+  echo "0" &gt; /sys/kernel/mm/ksm/deferred_timer;
+fi;</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act29"ve="7"><se>false</se><Str sr="arg0"ve="3">chmod 644 /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/scaling_governor
+chmod 644 /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor
+
+
+
+
+
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/schedutil/up_rate_limit_us
+
+chmod 644 /sys/devices/system/cpu/cpu0/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu2/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu4/cpufreq/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpu8/cpufreq/schedutil/down_rate_limit_us
+
+
+
+
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy0/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/schedutil/down_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/schedutil/down_rate_limit_us
+
+
+
+chmod 644 /sys/devices/system/cpu/cpufreq/policy0/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy4/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy2/schedutil/up_rate_limit_us
+chmod 644 /sys/devices/system/cpu/cpufreq/policy8/schedutil/up_rate_limit_us
+
+
+
+
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy4/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy2/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpufreq/policy8/scaling_governor
+
+
+
+echo schedutil &gt; /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+
+echo schedutil &gt; /sys/devices/system/cpu/cpu8/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor
+echo schedutil &gt; /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor
+
+
+
+echo 24000 &gt; /sys/devices/system/cpu/cpufreq/policy0/schedutil/down_rate_limit_us
+echo 24000 &gt; /sys/devices/system/cpu/cpufreq/policy4/schedutil/down_rate_limit_us
+echo 24000 &gt; /sys/devices/system/cpu/cpufreq/policy2/schedutil/down_rate_limit_us
+echo 24000 &gt; /sys/devices/system/cpu/cpufreq/policy8/schedutil/down_rate_limit_us
+
+echo 600 &gt; /sys/devices/system/cpu/cpufreq/policy0/schedutil/up_rate_limit_us
+echo 600 &gt; /sys/devices/system/cpu/cpufreq/policy4/schedutil/up_rate_limit_us
+echo 600 &gt; /sys/devices/system/cpu/cpufreq/policy2/schedutil/up_rate_limit_us
+echo 600 &gt; /sys/devices/system/cpu/cpufreq/policy8/schedutil/up_rate_limit_us
+
+
+echo 600  &gt; /sys/devices/system/cpu/cpu4/cpufreq/schedutil/up_rate_limit_us
+echo 600  &gt; /sys/devices/system/cpu/cpu0/cpufreq/schedutil/up_rate_limit_us
+echo 600  &gt; /sys/devices/system/cpu/cpu2/cpufreq/schedutil/up_rate_limit_us
+echo 600  &gt; /sys/devices/system/cpu/cpu8/cpufreq/schedutil/up_rate_limit_us
+echo 600  &gt; /sys/devices/system/cpu/cpu1/cpufreq/schedutil/up_rate_limit_us
+
+
+echo 24000  &gt; /sys/devices/system/cpu/cpu0/cpufreq/schedutil/down_rate_limit_us
+echo 24000  &gt; /sys/devices/system/cpu/cpu4/cpufreq/schedutil/down_rate_limit_us
+echo 24000  &gt; /sys/devices/system/cpu/cpu2/cpufreq/schedutil/down_rate_limit_us
+echo 24000  &gt; /sys/devices/system/cpu/cpu8/cpufreq/schedutil/down_rate_limit_us
+echo 24000  &gt; /sys/devices/system/cpu/cpu1/cpufreq/schedutil/down_rate_limit_us
+echo 24000  &gt; /sys/devices/system/cpu/cpu6/cpufreq/schedutil/down_rate_limit_us
+
+chmod 644 /sys/class/kgsl/kgsl-3d0/devfreq/adrenoboost
+echo 1 &gt; /sys/class/kgsl/kgsl-3d0/devfreq/adrenoboost
+
+chmod 644 /sys/module/msm_thermal/core_control/enabled
+chmod 644 /sys/module/msm_thermal/parameters/enabled
+
+echo 0 &gt; /sys/module/msm_thermal/core_control/enabled
+echo 0 &gt; /sys/module/msm_thermal/parameters/enabled
+
+chmod 644 /sys/kernel/cpu_input_boost/enabled
+    echo 1 &gt; /sys/kernel/cpu_input_boost/enabled
+
+chmod 644 /sys/module/msm_performance/parameters/touchboost
+    echo 0 &gt; /sys/module/msm_performance/parameters/touchboost
+
+chmod 644 /sys/class/kgsl/kgsl-3d0/bus_split
+    chmod 644 /sys/class/kgsl/kgsl-3d0/force_bus_on
+      chmod 644 /sys/class/kgsl/kgsl-3d0/force_rail_on
+     chmod 644 /sys/class/kgsl/kgsl-3d0/force_clk_on
+   chmod 644 /sys/class/kgsl/kgsl-3d0/throttling
+
+
+
+
+
+echo 0 &gt; /sys/class/kgsl/kgsl-3d0/bus_split
+      echo 1 &gt; /sys/class/kgsl/kgsl-3d0/force_bus_on
+      echo 1 &gt; /sys/class/kgsl/kgsl-3d0/force_rail_on
+      echo 1 &gt; /sys/class/kgsl/kgsl-3d0/force_clk_on
+    echo 1 &gt; /sys/class/kgsl/kgsl-3d0/throttling
+
+chmod 644 /sys/module/cpu_boost/parameters/input_boost_ms
+    echo 400 &gt; /sys/module/cpu_boost/parameters/input_boost_ms
+
+settings put global dropbox_max_files 1</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act30"ve="7"><se>false</se><Str sr="arg0"ve="3">dmesg -n1
+stop log
+stop logd
+stop logcat
+echo 0 &gt; /proc/sys/debug/exception-trace
+echo 0 &gt; /proc/sys/kernel/compat-log
+echo 0 0 0 0 &gt; /proc/sys/kernel/printk
+echo 0 &gt; /sys/module/debug/parameters/enable_event_log
+echo 0 &gt; /sys/module/glink/parameters/debug_mask
+echo 0 &gt; /sys/module/msm_show_resume_irq/parameters/debug_mask
+echo "N" &gt; /sys/module/sit/parameters/log_ecn_error
+echo 0 &gt; /sys/module/smp2p/parameters/debug_mask
+echo 0 &gt; /sys/module/usb_bam/parameters/enable_event_log
+echo 0 &gt; /sys/module/binder/parameters/debug_mask
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_ertm
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_esco
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_rxdbg_mask
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_txdbg_mask
+echo 0 &gt; /sys/module/hid_apple/parameters/fnmode
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_3button
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_scroll_wheel
+echo 0 &gt; /sys/module/smem_log/parameters/log_enable
+
+echo 0 &gt; /sys/block/mmcblk0/queue/iostats 
+echo 0 &gt; /sys/block/mmcblk0/queue/rq_affinity
+echo 1 &gt; /sys/block/mmcblk1/queue/iostats 
+echo 1 &gt; /sys/block/mmcblk1/queue/rq_affinity
+echo 0 &gt; /sys/block/mmcblk1/queue/add_random
+echo 0 &gt; /sys/block/mmcblk0/queue/add_random
+echo 0 &gt; /sys/block/mmcblk1/queue/rotational
+echo 0 &gt; /sys/block/mmcblk0/queue/rotational
+echo 0 &gt; /sys/block/mmcblk1/queue/nomerges
+echo 0 &gt; /sys/block/mmcblk0/queue/nomerges</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act31"ve="7"><se>false</se><Str sr="arg0"ve="3">mount -o remount,rw /data
+MEM=`free -m | awk '/Mem:/{print $2}'`
+chmod 644 /sys/module/lowmemorykiller/parameters/minfree
+
+FG8=$(((8192*2/100)*1024/4))
+ VA8=$(((8192*3/100)*1024/4))
+ SS8=$(((8192*4/100)*1024/4))
+ HA8=$(((8192*7/100)*1024/4))
+ CP8=$(((8192*10/100)*1024/4))
+ EA8=$(((8192*15/100)*1024/4))
+
+FG6=$(((6144*2/100)*1024/4))
+ VA6=$(((6144*3/100)*1024/4))
+ SS6=$(((6144*5/100)*1024/4))
+ HA6=$(((6144*7/100)*1024/4))
+ CP6=$(((6144*10/100)*1024/4))
+ EA6=$(((6144*15/100)*1024/4))
+
+FG4=$(((4096*2/100)*1024/4))
+ VA4=$(((4096*3/100)*1024/4))
+ SS4=$(((4096*5/100)*1024/4))
+ HA4=$(((4096*7/100)*1024/4))
+ CP4=$(((4096*10/100)*1024/4))
+ EA4=$(((4096*15/100)*1024/4))
+
+FG3=$(((3072*2/100)*1024/4))
+ VA3=$(((3072*3/100)*1024/4))
+ SS3=$(((3072*5/100)*1024/4))
+ HA3=$(((3072*7/100)*1024/4))
+ CP3=$(((3072*10/100)*1024/4))
+ EA3=$(((3072*15/100)*1024/4))
+
+FG2=$(((2048*2/100)*1024/4))
+ VA2=$(((2048*3/100)*1024/4))
+ SS2=$(((2048*5/100)*1024/4))
+ HA2=$(((2048*7/100)*1024/4))
+ CP2=$(((2048*10/100)*1024/4))
+ EA2=$(((2048*15/100)*1024/4))
+
+FG1=$(((1024*2/100)*1024/4))
+ VA1=$(((1024*3/100)*1024/4))
+ SS1=$(((1024*5/100)*1024/4))
+ HA1=$(((1024*7/100)*1024/4))
+ CP1=$(((1024*10/100)*1024/4))
+ EA1=$(((1024*15/100)*1024/4))
+
+
+if [ "$MEM" -lt 8200 ]; then
+
+echo "$FG8,$VA8,$SS8,$HA8,$CP8,$EA8" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+
+
+if [ "$MEM" -lt 6200 ]; then
+
+echo "$FG6,$VA6,$SS6,$HA6,$CP6,$EA6" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+ 
+if [ "$MEM" -lt 4200 ]; then
+
+echo "$FG4,$VA4,$SS4,$HA4,$CP4,$EA4" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+
+if [ "$MEM" -lt 3200 ]; then
+
+ echo "$FG3,$VA3,$SS3,$HA3,$CP3,$EA3" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+
+if [ "$MEM" -lt 2200 ]; then
+
+ echo "$FG2,$VA2,$SS2,$HA2,$CP2,$EA2" &gt; /sys/module/lowmemorykiller/parameters/minfree
+
+fi
+ 
+if [ "$MEM" -lt 1200 ]; then
+
+echo "$FG1,$VA1,$SS1,$HA1,$CP1,$EA1" &gt; /sys/module/lowmemorykiller/parameters/minfree
+ 
+ 
+ fi
+ if [ "$MEM" -lt 8200 ]; then
+resetprop ro.config.zram false
+resetprop ro.config.zram.support false
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '6' &gt; /sys/block/zram0/max_comp_streams
+  echo '1048576000' &gt; /sys/block/zram0/disksize
+ swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 666 /proc/sys/vm/swappiness
+echo 0 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 0 &gt; /proc/sys/vm/swappiness
+
+fi
+if [ "$MEM" -lt 6200 ]; then
+resetprop ro.config.zram false
+resetprop ro.config.zram.support false
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '6' &gt; /sys/block/zram0/max_comp_streams
+  echo 1048576000 &gt; /sys/block/zram0/disksize
+ swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 666 /proc/sys/vm/swappiness
+echo 80 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 80 &gt; /proc/sys/vm/swappiness
+fi
+ 
+if [ "$MEM" -lt 4200 ]; then
+resetprop ro.config.zram true
+resetprop ro.config.zram.support true
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '6' &gt; /sys/block/zram0/max_comp_streams
+  echo '1048576000' &gt; /sys/block/zram0/disksize
+ mkswap /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ swapon /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 666 /proc/sys/vm/swappiness
+echo 90 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 90 &gt; /proc/sys/vm/swappiness
+fi
+
+if [ "$MEM" -lt 3200 ]; then
+
+resetprop ro.config.zram true
+resetprop ro.config.zram.support true
+
+swapoff /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+chmod 644 /sys/block/zram0/reset
+chmod 644 /sys/block/zram0/disksize
+ echo '1' &gt; /sys/block/zram0/reset
+  echo '0' &gt; /sys/block/zram0/disksize
+echo '6' &gt; /sys/block/zram0/max_comp_streams
+  echo '1048576000' &gt; /sys/block/zram0/disksize
+ mkswap /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1
+ swapon /dev/block/zram0 &gt; /dev/null 2&gt;&amp;1 
+chmod 666 /proc/sys/vm/swappiness
+echo 90 &gt; /proc/sys/vm/swappiness
+chmod 644 /proc/sys/vm/swappiness
+echo 90 &gt; /proc/sys/vm/swappiness
+fi
+
+
+ echo 0 &gt; /sys/module/debug/parameters/enable_event_log
+echo 0 &gt; /sys/module/glink/parameters/debug_mask
+echo 0 &gt; /sys/module/msm_show_resume_irq/parameters/debug_mask
+echo "N" &gt; /sys/module/sit/parameters/log_ecn_error
+echo 0 &gt; /sys/module/smp2p/parameters/debug_mask
+echo 0 &gt; /sys/module/usb_bam/parameters/enable_event_log
+echo 0 &gt; /sys/module/binder/parameters/debug_mask
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_ertm
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_esco
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_rxdbg_mask
+echo 0 &gt; /sys/module/dwc3/parameters/ep_addr_txdbg_mask
+echo 0 &gt; /sys/module/hid_apple/parameters/fnmode
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_3button
+echo "N" &gt; /sys/module/hid_magicmouse/parameters/emulate_scroll_wheel
+echo 0 &gt; /sys/module/smem_log/parameters/log_enable
+dmesg -n1
+stop log
+stop logd
+stop logcat
+echo 0 &gt; /proc/sys/debug/exception-trace
+echo 0 &gt; /proc/sys/kernel/compat-log
+echo 0 0 0 0 &gt; /proc/sys/kernel/printk
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_ertm
+echo "Y" &gt; /sys/module/bluetooth/parameters/disable_esco
+
+echo "0" &gt; /sys/module/hid/parameters/ignore_special_drivers
+echo "0" &gt; /sys/module/hid_magicmouse/parameters/scroll_speed
+echo "N" &gt; /sys/module/sync/parameters/fsync_enabled
+echo "0" &gt; /sys/module/binder/parameters/debug_mask
+echo "0" &gt; /sys/module/glink/parameters/debug_mask
+echo "N" &gt; /sys/module/ip6_tunnel/parameters/log_ecn_error
+echo "0" &gt; /sys/module/subsystem_restart/parameters/enable_ramdumps
+echo "0" &gt; /sys/module/lowmemorykiller/parameters/debug_level
+echo "0" &gt; /sys/module/msm_show_resume_irq/parameters/debug_mask
+echo "N" &gt; /sys/module/sit/parameters/log_ecn_error
+echo "0" &gt; /sys/module/smp2p/parameters/debug_mask
+echo "0" &gt; /sys/module/usb_bam/parameters/enable_event_log
+echo "Y" &gt; /sys/module/printk/parameters/console_suspend
+
+echo "Y" &gt; /sys/module/printk/parameters/ignore_loglevel
+
+echo "N" &gt; /sys/module/printk/parameters/time
+echo "0" &gt; /sys/module/service_locator/parameters/enable
+
+ 
+ 
+
+stop perfd
+
+am kill-all</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act32"ve="7"><se>false</se><Int sr="arg0"val="438"/><code>61</code></Action><Action sr="act33"ve="7"><se>false</se><Str sr="arg0"ve="3">am kill-all
+am force-stop v.uni</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><cdate>1590595319885</cdate><edate>1590595319885</edate></Task><Task sr="task5"><id>5</id><pri>104</pri><Action sr="act0"ve="7"><ConditionList sr="if"><Condition sr="c0"ve="3"><op>2</op><lhs>%new_val</lhs><rhs>2</rhs></Condition></ConditionList><code>37</code></Action><Action sr="act1"ve="7"><se>false</se><Str sr="arg0"ve="3">settings put global window_animation_scale 1.0
+settings put global transition_animation_scale 1.0
+settings put global animator_duration_scale 1.0</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Str sr="arg3"ve="3"/><Str sr="arg4"ve="3"/><Str sr="arg5"ve="3"/><code>123</code></Action><Action sr="act2"ve="7"><se>false</se><Int sr="arg0"val="0"/><code>59</code></Action><cdate>1590657665886</cdate><edate>1590657665886</edate></Task><Scene sr="sceneStock"><RectElement sr="elements0"><Str sr="arg0"ve="3">Rectangle1</Str><Int sr="arg1"val="0"/><Str sr="arg2"ve="3">#FF000000</Str><Str sr="arg3"ve="3"/><Int sr="arg4"val="0"/><Str sr="arg5"ve="3">#FF000000</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><geom>0,0,702,230,0,0,702,230</geom><flags>6</flags></RectElement><TextElement sr="elements1"ve="3"><Str sr="arg0"ve="3">Text1</Str><Str sr="arg1"ve="3">Revert everything back to stock?</Str><Int sr="arg2"val="15"/><Int sr="arg3"val="100"/><Str sr="arg4"ve="3">#FFFFFFFF</Str><Str sr="arg5"ve="3">font/Oswald-Bold.ttf</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><Int sr="arg8"val="0"/><geom>0,0,701,78,153,28,449,176</geom><flags>4</flags></TextElement><SliderElement sr="elements2"><Str sr="arg0"ve="3">Slider1</Str><Int sr="arg1"val="0"/><Int sr="arg2"val="1"/><Int sr="arg3"val="2"/><Int sr="arg4"val="1"/><Int sr="arg5"val="0"/><Img sr="arg6"ve="2"/><geom>79,127,536,99,128,127,494,99</geom><flags>4</flags><valueselectedTask>5</valueselectedTask></SliderElement><TextElement sr="elements3"ve="3"><Str sr="arg0"ve="3">Text2</Str><Str sr="arg1"ve="3">slide to confirm</Str><Int sr="arg2"val="12"/><Int sr="arg3"val="100"/><Str sr="arg4"ve="3">#FFFFFFFF</Str><Str sr="arg5"ve="3">font/Bee Leave.ttf</Str><Int sr="arg6"val="0"/><Int sr="arg7"val="0"/><Int sr="arg8"val="0"/><geom>79,53,518,74,104,78,469,49</geom><flags>4</flags></TextElement><widthLand>-1</widthLand><widthPort>702</widthPort><nme>Stock</nme><cdate>1590652688325</cdate><edate>1590664554695</edate><heightLand>-1</heightLand><heightPort>231</heightPort></Scene></TaskerData>
